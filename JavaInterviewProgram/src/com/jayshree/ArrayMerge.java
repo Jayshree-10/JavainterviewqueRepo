@@ -1,5 +1,5 @@
 package com.jayshree;
-
+//Program is to merge two array alternatively
 import java.util.Arrays;
 
 public class ArrayMerge {
